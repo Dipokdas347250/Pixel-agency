@@ -3,6 +3,8 @@ import Hero from '../componets/about/Hero'
 import Our from '../componets/about/Our'
 import Success from '../componets/about/Success.JSX'
 import Tame from '../componets/about/Tame'
+import Webest from '../componets/about/Webest'
+import Journey from '../componets/about/Journey'
 
 const About = () => {
   return (
@@ -12,6 +14,8 @@ const About = () => {
     <Our/>
     <Success/>
     <Tame/>
+    <Webest/>
+    <Journey/>
     </>
   )
 }
